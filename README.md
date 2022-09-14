@@ -92,4 +92,4 @@ I'd like to learn how to do those alert messages on the inputs; also how to make
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/peteonthebeat)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
