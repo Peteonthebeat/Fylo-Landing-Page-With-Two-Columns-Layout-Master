@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Peteonthebeat/Fylo-Landing-Page-With-Two-Columns-Layout-Master.git]
 - Live Site URL: [https://peteonthebeat.github.io/Fylo-Landing-Page-With-Two-Columns-Layout-Master/]
 
 ## My process
